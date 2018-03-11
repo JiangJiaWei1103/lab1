@@ -1,0 +1,22 @@
+命令稿啟動於 2018年03月11日 下午 05:00:51
+]0;/cygdrive/d/成大EE一下/計算機概論/lab
+[32mUser@DESKTOP-VR6AK40 [33m/cygdrive/d/成大EE一下/計算機概論/lab[0m
+$ whoami; pwd
+User
+/cygdrive/d/成大EE一下/計算機概論/lab
+]0;/cygdrive/d/成大EE一下/計算機概論/lab
+[32mUser@DESKTOP-VR6AK40 [33m/cygdrive/d/成大EE一下/計算機概論/lab[0m
+$ git config -l
+user.email=waynechuang97@gmail.com
+user.name=JiangJiaWei1103
+]0;/cygdrive/d/成大EE一下/計算機概論/lab
+[32mUser@DESKTOP-VR6AK40 [33m/cygdrive/d/成大EE一下/計算機概論/lab[0m
+$ git clone https://github.com/JiangJiaWei1103/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;/cygdrive/d/成大EE一下/計算機概論/lab
+[32mUser@DESKTOP-VR6AK40 [33m/cygdrive/d/成大EE一下/計算機概論/lab[0m
+$ exit
+
+命令稿已於 2018年03月11日 下午 05:01:53
+ 完成
